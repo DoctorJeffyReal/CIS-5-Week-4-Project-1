@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-// Project 1 — Your Name
+// Project 1 — Jesus
 // CIS 5 Week 04 · Student card
 
 int main() {
