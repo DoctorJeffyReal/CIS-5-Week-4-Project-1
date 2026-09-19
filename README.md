@@ -12,7 +12,7 @@ Work without a working video link is incomplete.
 
 In the video: build the program, run it, and type the four answers at the keyboard. Show the card that prints.
 
-**Your demo:** _add your link here_
+**Your demo:** https://www.youtube.com/watch?v=aUlwmfrnNCk
 
 
 ## What to build
